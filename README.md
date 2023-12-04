@@ -5,7 +5,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/MatheusKerscher/web-sport-ease-manager?style=for-the-badge)
 
 
-<img src="/src/assets/preview.png" alt="Página do SportEase UFPR - Manager">
+<img src="/src/assets/preview/preview.png" alt="Página do SportEase UFPR - Manager">
 
 > O SportEase UFPR - Manager foi o sistema desenvolvido para o meu TCC. Fui o responsavél pela criação do website, nele é possivel gerenciar as solicitações de reserva, os admistradores e os espaços esportivos, também é possível bloquear e desbloquear um cliente, fazer envio de e-mails para os clientes do sistema, visualziar relatórios com todas as reservas já solicitadas no sistema e visualziar os comentários por espaço esportivo.
 
