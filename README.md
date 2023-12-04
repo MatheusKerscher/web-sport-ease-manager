@@ -48,7 +48,7 @@ npm i
 
 Para usar SportEase UFPR - Manager, siga estas etapas:
 
-Executar e a abrir o projeto:
+Executar e abrir o projeto:
 ```
 ng s -o
 ```
