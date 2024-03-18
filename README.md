@@ -9,6 +9,10 @@
 
 > O SportEase UFPR - Manager foi o sistema desenvolvido para o meu TCC. Fui o responsavél pela criação do website, nele é possivel gerenciar as solicitações de reserva, os admistradores e os espaços esportivos, também é possível bloquear e desbloquear um cliente, fazer envio de e-mails para os clientes do sistema, visualziar relatórios com todas as reservas já solicitadas no sistema e visualziar os comentários por espaço esportivo.
 
+## 🚨BACK-END DESATIVADO🚨
+
+O servidor do sistema está desativado no momento 🥲. Mas atarvés do [link](https://youtu.be/WBABqx7nxKA?si=Rnuec8Gn9IBzl75y) você consegue ver como ele funciona :)
+
 ## 🥳 Visualizar o projeto
 
 Caso não queira instalar e usar o SportEase UFPR - Manager localmente, ele também está hospedado. Sendo possível, através desse [link](https://sportease-manager.netlify.app/login), você ser redirecionado para ele.
